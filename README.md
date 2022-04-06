@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DominicEP
+- 👀 I’m interested in coding/programming
+- 🌱 I’m currently learning html and css
